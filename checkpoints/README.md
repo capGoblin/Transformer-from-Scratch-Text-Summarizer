@@ -4,7 +4,7 @@ Checkpoints for training a Transformer model from scratch for text summarization
 
 ## Checkpoint Files
 
-All the checkpoint files generated during the training of this Transformer model uploaded as a dataset in kaggle. Due to GitHub's limitations on file sizes.
+All the checkpoint files generated during the training of this Transformer model are available at kaggle as a dataset. Due to GitHub's limitations on file sizes.
 
 [Kaggle Checkpoints](https://www.kaggle.com/datasets/iamdharshan/checkpoints?select=ckpt-5.index)
 
